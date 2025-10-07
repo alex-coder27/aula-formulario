@@ -1,0 +1,9 @@
+:root {
+    --color-primary: #FFFFFF;
+    --color-secundary: #000000;
+    --color-error: #F52E2E;
+    --color-valid: #00C22B;
+    --color-btn: #3CCC87;
+    --color-text-placeholder: #A8A8A8;
+    --font-family: 'Roboto', sans-serif;
+}

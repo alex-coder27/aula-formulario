@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DESAFIO - HTML/CSS/JS INTERMEDIÁRIO</title>
+    <link rel="stylesheet" href="./src/css/reset.css">
+    <link rel="stylesheet" href="./src/css/variables.css">
+    <link rel="stylesheet" href="./src/css/globals.css">
+    <link rel="stylesheet" href="./src/css/style.css">
+    <link rel="stylesheet" href="./src/css/responsive.css">
+</head>
+
+<body>
+    <main>
+        <div class="header-form">
+            <h1 class="form-title">Ficou com dúvida?<br>Nos mande uma mensagem!</h1>
+            <p class="form-description">caso tenha ficado com qualquer dúvida basta nos mandar uma mensagem e entraremos em contato em menos de
+                24h.</p>
+        </div>
+        <form method="GET" class="contact-form">
+            <input type="text" id="nome" name="nome" placeholder="Nome completo *" class="form-input default-spacing">
+            <input type="email" id="email" name="email" placeholder="Email *" class="form-input default-spacing">
+            <input type="tel" id="telefone" name="telefone" placeholder="Telefone *" class="form-input default-spacing">
+            <textarea id="mensagem" name="mensagem" placeholder="Mensagem *" class="form-text-area"></textarea>
+            <p class="aviso-obrigatorio no-error-spacing">*campos obrigatórios</p>
+            <button type="submit" class="submit-btn">Enviar</button>
+        </form>
+    </main>
+
+    <script type="text/javascript" src="./src/index.js"></script>
+</body>
+
+</html>
