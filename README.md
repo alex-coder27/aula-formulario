@@ -24,6 +24,7 @@ Este projeto consiste na implementação de um **formulário web** simples, mas 
 A organização do projeto segue a convenção de separar o código-fonte (assets) em uma pasta `src/`, deixando os arquivos de entrada e documentação na raiz.
 
 📦 aula-formulario/
+```
 ├── src/
 │   ├── css/
 │   │   ├── globals.css      # Estilos aplicados a todo o projeto.
@@ -36,6 +37,7 @@ A organização do projeto segue a convenção de separar o código-fonte (asset
 │   └── index.js             # Lógica de validação e manipulação do formulário.
 ├── index.html               # Arquivo principal, onde o formulário está definido.
 └── README.md                # Documentação do projeto (este arquivo).
+```
 
 ---
 
