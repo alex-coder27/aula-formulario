@@ -1,4 +1,4 @@
-# 📄 Projeto Formulário Completo (HTML/CSS/JS)
+# 📄 Projeto Formulário (HTML/CSS/JS)
 
 Este projeto consiste na implementação de um **formulário web** simples, mas bem estruturado, utilizando as tecnologias front-end padrão. O objetivo principal é praticar a **organização de código-fonte** em pastas dedicadas (`src/`), mantendo o arquivo principal (`index.html`) na raiz e utilizando a documentação com o **README**.
 
